@@ -2,6 +2,9 @@
 Task Manager App – A Flutter-Based CRUD Application Using Back4App (BaaS)  
 ![image](https://github.com/user-attachments/assets/431f3f27-2d2d-42ab-8130-83f8674b2c63)
 
+Flow:
+![image](https://github.com/user-attachments/assets/7c5d176d-da4f-4af6-89db-1f9384d4b1e9)
+
 ScreenShots:
 ![image](https://github.com/user-attachments/assets/5bf393c2-2c46-44c5-886f-31f4dadf6711)
 ![image](https://github.com/user-attachments/assets/17545296-8612-43bd-9608-bc8250cf8e19)
